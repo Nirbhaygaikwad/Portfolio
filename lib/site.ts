@@ -196,7 +196,7 @@ export const projects: Project[] = [
       "Real-time updates over MongoDB & Express APIs",
       "Redux Toolkit for predictable state across devices",
     ],
-    repo: "https://github.com/Nirbhaygaikwad",
+    repo: "https://github.com/Nirbhaygaikwad/Smart-Budget",
   },
   {
     name: "LuxRide",
@@ -211,7 +211,7 @@ export const projects: Project[] = [
       "Separate buy and rent flows per listing",
       "Responsive layouts built for large imagery",
     ],
-    repo: "https://github.com/Nirbhaygaikwad",
+    repo: "https://github.com/Nirbhaygaikwad/Smart-Budget",
   },
   {
     name: "Food Delivery Platform",
@@ -225,7 +225,7 @@ export const projects: Project[] = [
       "Deployed RESTful endpoints consumed by a React client",
       "Built and reviewed under AICTE & EY-GDS mentorship",
     ],
-    repo: "https://github.com/Nirbhaygaikwad",
+    repo: "https://github.com/Nirbhaygaikwad/Smart-Budget",
   },
 ];
 
