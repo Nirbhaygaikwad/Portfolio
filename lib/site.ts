@@ -37,7 +37,7 @@ export const site = {
   web3formsKey: process.env.NEXT_PUBLIC_WEB3FORMS_KEY ?? "",
 
   // Change to your real domain once deployed (used for SEO + social cards)
-  url: "https://nirbhay-gaikwad.vercel.app",
+  url: "https://portfolio-nirbhay-gaikwad.vercel.app/",
 } as const;
 
 /* ------------------------------------------------------------------ */
