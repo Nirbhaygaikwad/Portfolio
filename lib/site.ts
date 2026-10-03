@@ -31,7 +31,7 @@ export const site = {
   githubHandle: "Nirbhaygaikwad",
   linkedin: "https://www.linkedin.com/in/nirbhay-gaikwad",
   linkedinHandle: "nirbhay-gaikwad",
-  resume: "/Nirbhay_Gaikwad_Resume.pdf",
+  resume: "/Nirbhay_Gaikwad.pdf",
 
   // Set in .env.local as NEXT_PUBLIC_WEB3FORMS_KEY — see README
   web3formsKey: process.env.NEXT_PUBLIC_WEB3FORMS_KEY ?? "",
